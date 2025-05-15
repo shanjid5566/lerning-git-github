@@ -1,2 +1,2 @@
 // I am from master
-console.log(5 +10);
+console.log(10+30);
